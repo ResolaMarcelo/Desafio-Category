@@ -1,0 +1,89 @@
+[
+        {
+          "id": "fifa-21",
+          "title": "Fifa 21",
+          "description": "PS4",
+          "price": 3500,
+          "pictureUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/222/369/products/nb_juego-playstation-fifa-21_ver_cb5795fb2cdc73be257c61cd86d40fba2-202643c1c0738b566c16249099551842-480-0.jpg",
+          "category": "digitales"
+        },
+        {
+          "id": "god",
+          "title": "God of war",
+          "description": "PS4",
+          "price": 2000,
+          "pictureUrl": "https://cdnx.jumpseller.com/divina/image/8095248/resize/480/480?1642264715",
+          "category": "digitales"
+        },
+        {
+          "id": "pes",
+          "title": "Pes 2019",
+          "description": "PS4",
+          "price": 2100,
+          "pictureUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/222/369/products/nb_pes-2019-para-ps4_ver_a5563a82c03805d5b63e3bcef188c4291-d94be90cd7753be69316249105339805-480-0.jpg",
+          "category": "digitales"
+        },
+
+     
+
+
+
+        {
+          "id": "mando-ps4",
+          "title": "Mando PS4",
+          "description": "Mando para Playstation 4",
+          "price": 10500,
+          "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRK2Dx4Bj3eXztZ6YabFGnrR4v_w4EsgpMDXBZQe6veyYEB0f2Lm-Gg35XnINi8JlTllo&usqp=CAU",
+          "category": "mandos"
+        },
+        {
+          "id": "mando-ps5",
+          "title": "Mando PS5",
+          "description": "Mando para Playstation 5",
+          "price": 12000,
+          "pictureUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/988/731/products/dualsense-red-ps51-6dd58dccd69979fd8b16378012545205-480-0.png",
+          "category": "mandos"
+        },
+        {
+          "id": "mando-xbox",
+          "title": "Mando Xbox",
+          "description": "Mando para Xbox",
+          "price": 9100,
+          "pictureUrl": "http://d3ugyf2ht6aenh.cloudfront.net/stores/474/538/products/blanco1-b539e8f466e1f14a7516039028336551-640-0.jpg",
+          "category": "mandos"
+        },
+
+
+
+
+
+
+
+        {
+          "id": "teclado-logitech",
+          "title": "Teclado Gamer Logitech",
+          "description": "Teclado Mecanico Logitech Swithes Blue",
+          "price": 8500,
+          "pictureUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/349/695/products/log-gpro_11-ca1b69ecb7c2d3e9ab15941547535331-480-0.png",
+          "category": "teclados"
+        },
+        {
+          "id": "teclado-redragon",
+          "title": "Teclado Gamer Redragon",
+          "description": "Teclado Mecanico Redragon Swithes Red",
+          "price": 5000,
+          "pictureUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/929/242/products/k552_pnghq_31-4f755aee64d776aa1a15892903695671-480-0.png",
+          "category": "teclados"
+        },
+        {
+          "id": "teclado-x",
+          "title": "Teclado Gamer Noga  ",
+          "description": "Teclado Gamer Simil Mecanico",
+          "price": 4100,
+          "pictureUrl": "https://d2r9epyceweg5n.cloudfront.net/stores/105/049/products/teclado-gamer-backlight-x-trike-kb3021-42b34d4e4390ce2dad16382014626006-480-0.jpg",
+          "category": "teclados"
+        }
+    
+      ]
+    
+
